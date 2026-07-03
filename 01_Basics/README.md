@@ -66,10 +66,10 @@ Variables are **containers** for storing data.
 ### Example:
 
 ```python
-name = "Dheeraj"
-age = 25
+name = "Emmanuel"
+age = 28
 is_devops = True
-salary = 55000.50
+salary = 44000
 ```
 
 ### Data Types in Python:
@@ -329,7 +329,7 @@ print(msg.replace("DevOps", "Automation"))  # Python for Automation
 ### String Formatting:
 
 ```python
-name = "Dheeraj"
+name = "Emmanuel"
 tool = "Docker"
 print(f"{name} uses {tool} for container management.")
 ```
