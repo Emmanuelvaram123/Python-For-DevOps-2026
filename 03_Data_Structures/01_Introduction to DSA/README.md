@@ -86,7 +86,7 @@ s.add(4)
 **Definition:** Collection of key-value pairs.
 
 ```python
-d = {"name": "Dheeraj", "age": 25}
+d = {"name": "Emmanuel", "age": 28}
 print(d["name"])
 ```
 
