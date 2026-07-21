@@ -193,5 +193,5 @@ If this repository helped you in your DevOps journey:
 
 ## 🔗 Connect With Me
 
-- **GitHub**: [@imshakil](https://github.com/Emmanuelvaram123)
+- **GitHub**: [@Emmanuelvaram](https://github.com/Emmanuelvaram123)
 - **LinkedIn**: [Connect with me](https://www.linkedin.com/in/emmanuel-garikina-a25834158/)
