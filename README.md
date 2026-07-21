@@ -179,3 +179,19 @@ This syllabus covers everything you need — from **basic syntax to advanced Dev
 - ✅ Server health monitoring tool  
 
 ---
+
+## ⭐ Show Your Support
+
+If this repository helped you in your DevOps journey:
+
+- **Star** this repository ⭐
+- **Fork** it to create your own version
+- **Share** it with fellow developers
+- **Follow me** for more DevOps content
+
+---
+
+## 🔗 Connect With Me
+
+- **GitHub**: [@imshakil](https://github.com/Emmanuelvaram123)
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/emmanuel-garikina-a25834158/)
